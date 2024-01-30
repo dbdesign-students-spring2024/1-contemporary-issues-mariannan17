@@ -1,3 +1,15 @@
-# Contemporary Issues In Data
+# Incorporating AI in Healthcare
+In this document, I will be discussing two articles that have two different viewpoints on the topic of AI in healthcare. My first article written by IBM focuses mainly on the benefits of AI in healthcare and the improvements that can be made, however, it does not focus much on the drawbacks or potential harm that AI could bring to the healthcare field. My second article, published by the NIH focuses on the drawbacks of AI in the healthcare sector and also gives potential solutions to these drawbacks.
 
-Welcome! Your writing assignment will be in this file.  See [the instructions](./instructions.md) for more details.
+
+## Article 1
+IBM's [The benefits of AI in healthcare](https://www.ibm.com/blog/the-benefits-of-ai-in-healthcare/), article starts off by discussing AI's efficiency, as it can "sift through enormous volumes of health data... and analyze it much faster than humans." IBM then goes on to talk about how AI can help make healthcare operations more efficient, specifically in administrative workflow, virtual nursing assistants, dosage error reduction, less invasive surgeries, fraud prevention. Furthermore, this article focuses on the current technological advancements in healthcare and how AI can strengthen preventative care. For example, as health and fitness monitors are becoming more and more common, "AI solutions" could be used to help humans analyze these datasets of information to help with preventative care.
+
+The article also talks in depth about increasing efficiency in diagnoses. Specifically, one study was mentioned that was conducted at the University of Hawaii, where a research team found that AI technology can improve the prediction of breast cancer risk by analyzing many more radiology images than a radiologist tech would be able to analyze. This point to me is very interesting as AI could also get rid of potential biases that can occur when humans are analyzing these images. 
+
+
+## Article 2
+In a different light, the NIH's [Drawbacks of Artificial Intelligence and Their Potential Solutions in the Healthcare Sector](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9908503/), article focuses on many different drawbacks that can occur as AI further enters the field of healthcare. This article focuses on various different concerns such as social, clinical, ethical, and data collection concerns. For some of these concerns, the authors of the article provide possible solutions that can be applied in order to incorporate AI into healthcare as there are many benefits, while minimizing the amount of concerns that people have.
+
+One concern that stood out to me when reading this article dealt with "Biased and Discriminatory Algorithms." As stated in the article, "Biased software and technological artifacts may result from poor design or from incorrect or unbalanced data being input into algorithms." The article goes on to say that AI replicates the racial, gender and age prejudice that already exist in our society. The article does not give a potential solution to this issue, which leads me to think that this is an issue that must first be resolved within society before we start developing new technologies with these same prejudices that can harm our healthcare system. 
+
